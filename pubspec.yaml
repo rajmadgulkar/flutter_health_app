@@ -1,0 +1,58 @@
+name: flutter_task
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  cloud_firestore: ^6.0.1
+  firebase_auth: ^6.0.2
+  firebase_core: ^4.1.0
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.2.1
+  google_fonts: ^6.3.1
+  path: ^1.9.1
+  shared_preferences: ^2.5.3
+  sqflite: ^2.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets\svg\loginbottom.svg
+  - assets\image\test.png
+  - assets\svg\right_line.svg
+  - assets\svg\logo.svg
+  - assets\svg\email.svg
+  - assets\svg\right_arrow.svg
+  - assets\svg\headphone_man.svg
+  - assets\svg\user.svg
+  - assets\svg\arrow_back.svg
+  - assets\svg\timer.svg
+  - assets\image\men.png
+  - assets\svg\heart_symb.svg
+  - assets\svg\body_pos.svg
+  - assets\svg\body_comp.svg
+  - assets\svg\instant_rep.svg
+  - assets\svg\men_circle.svg
+  - assets\image\demo.png
+  - assets\svg\security.svg
+  - assets\svg\dot_lines.svg
+  - assets\image\girl_exe.png
+  - assets\svg\play_button.svg
+  - assets\image\boy_exe.png
+  - assets\svg\fitness.svg
+  - assets\svg\physio.svg
+  - assets\svg\cancer_2nd.svg
+  - assets\svg\right_arrow_flutter.svg
+  - assets\svg\progress_bar.svg
+  - assets\image\pushup_girl.png
+  - assets\image\pushup_girl_updated.png
+  - assets\image\squat_girl.png
